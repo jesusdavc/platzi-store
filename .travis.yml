@@ -15,7 +15,6 @@ notifications:
       - gsusqdavid@gmail.com
       - 15-10345@usb.ve
     on_success: always
-    on_failure: always
 deploy:
   provider: pages
   edge: true
